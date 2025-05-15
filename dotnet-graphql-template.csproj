@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="GraphQL" Version="8.5.0" />
+    <PackageReference Include="GraphQL.SystemTextJson" Version="8.5.0" />
     <PackageReference Include="MongoDB.Driver" Version="3.4.0" />
   </ItemGroup>
 
