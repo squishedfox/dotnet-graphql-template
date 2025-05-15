@@ -20,4 +20,5 @@ Template for making new GraphQL Microservice Endpoints
 ## See Also
 
 - [MongoDB Driver](https://www.nuget.org/packages/MongoDB.Driver)
+- [MongoDB Analyzer](https://www.mongodb.com/docs/mongodb-analyzer/current/)
 - [GraphQL DotNet](https://graphql-dotnet.github.io/docs/getting-started/introduction/)
