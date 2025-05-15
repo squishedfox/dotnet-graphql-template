@@ -3,15 +3,13 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>dotnet_graphql_template</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="GraphQL" Version="8.5.0" />
+    <PackageReference Include="GraphQL.NewtonsoftJson" Version="8.5.0" />
     <PackageReference Include="GraphQL.SystemTextJson" Version="8.5.0" />
-    <PackageReference Include="MongoDB.Analyzer" Version="2.0.0" />
     <PackageReference Include="MongoDB.Driver" Version="3.4.0" />
     <PackageReference Include="MongoDB.EntityFrameworkCore" Version="9.0.0" />
   </ItemGroup>
